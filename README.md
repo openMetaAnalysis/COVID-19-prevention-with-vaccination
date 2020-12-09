@@ -48,8 +48,9 @@ NA
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Voysey, Merryn (2020). "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK". Lancet: 1–55. doi:[10.1016/S0140-6736(20)32661-1](http://doi.org/10.1016/S0140-6736(20)32661-1). <!-- PMID: [32445440](http://pubmed.gov/32445440). -->
+1. Voysey, Merryn (2020). "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK". Lancet: 1–55. doi:[10.1016/S0140-6736(20)32661-1](http://doi.org/10.1016/S0140-6736(20)32661-1).
 2. Vaccines and Related Biological Products Advisory Committee Meeting. Available at https://www.fda.gov/media/144245/download
+3. Walsh EE, Frenck RW Jr, Falsey AR, Kitchin N, Absalon J, Gurtman A, Lockhart S, Neuzil K, Mulligan MJ, Bailey R, Swanson KA, Li P, Koury K, Kalina W, Cooper D, Fontes-Garfias C, Shi PY, Türeci Ö, Tompkins KR, Lyke KE, Raabe V, Dormitzer PR, Jansen KU, Şahin U, Gruber WC. Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates. N Engl J Med. 2020 Oct 14:NEJMoa2027906. doi: 10.1056/NEJMoa2027906. Epub ahead of print. PMID: [33053279](http://pubmed.gov/33053279); PMCID: PMC7583697.
 
 
 #### Trial(s) included in the review above
