@@ -4,7 +4,7 @@ A expert-driven, 'really rapid' living systematic review
 
 Short url: http://openmetaanalysis.github.io/covid-19/
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. However, the heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 88% before creating clinical subgroups. 
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. However, the heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 88%. 
 
 <!--
 An excellent clinical interpretation of this data is at
@@ -48,9 +48,11 @@ NA
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Voysey, Merryn (2020). "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK". Lancet: 1–55. doi:[10.1016/S0140-6736(20)32661-1](http://doi.org/10.1016/S0140-6736(20)32661-1).
+1. Voysey M, Clemens SAC, Madhi SA, et alJ; Oxford COVID Vaccine Trial Group. Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK. Lancet. 2020 Dec 8:S0140-6736(20)32661-1. doi: [10.1016/S0140-6736(20)32661-1](http://doi.org/110.1016/S0140-6736(20)32661-1). Epub ahead of print. PMID: [33306989](http://pubmed.gov/33306989); PMCID: PMC7723445.
+Voysey, Merryn (2020). "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK". Lancet: 1–55. doi:[10.1016/S0140-6736(20)32661-1](http://doi.org/10.1016/S0140-6736(20)32661-1).
 2. Vaccines and Related Biological Products Advisory Committee Meeting. Available at https://www.fda.gov/media/144245/download
 3. Walsh EE, Frenck RW Jr, Falsey AR, Kitchin N, Absalon J, Gurtman A, Lockhart S, Neuzil K, Mulligan MJ, Bailey R, Swanson KA, Li P, Koury K, Kalina W, Cooper D, Fontes-Garfias C, Shi PY, Türeci Ö, Tompkins KR, Lyke KE, Raabe V, Dormitzer PR, Jansen KU, Şahin U, Gruber WC. Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates. N Engl J Med. 2020 Oct 14:NEJMoa2027906. doi: [10.1056/NEJMoa2027906](http://doi.org/10.1056/NEJMoa2027906). Epub ahead of print. PMID: [33053279](http://pubmed.gov/33053279); PMCID: PMC7583697.
+4. Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R, Diemert D, Spector SA, Rouphael N, Creech CB, McGettigan J, Kehtan S, Segall N, Solis J, Brosz A, Fierro C, Schwartz H, Neuzil K, Corey L, Gilbert P, Janes H, Follmann D, Marovich M, Mascola J, Polakowski L, Ledgerwood J, Graham BS, Bennett H, Pajon R, Knightly C, Leav B, Deng W, Zhou H, Han S, Ivarsson M, Miller J, Zaks T; COVE Study Group. Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine. N Engl J Med. 2020 Dec 30. doi: [10.1056/NEJMoa2035389](http://doi.org/10.1056/NEJMoa2035389. Epub ahead of print. PMID: [33378609](http://pubmed.gov/33378609).
 
 
 #### Trial(s) included in the review above
